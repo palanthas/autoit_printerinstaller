@@ -1,0 +1,42 @@
+[Initial]
+Install = ON
+PortSerch = 5000
+
+[PrinterDirectory]
+Dir=SCPrint
+
+[Install]
+ProgramName=SC-Print2005
+Driver=Scp2005.dll
+ProgramExe=SPMON.EXE
+Programini=SPMON.INI
+Dlgini=JETDLG.INI
+Mesini=JETMES.INI
+InstallDll=_Setup.dll
+InstallDll64=_Setup64.dll
+SSLini=Sc2005.ini
+Readme=LicenseS.txt
+DriverUI=Scp2005ui.dll
+MsgsrvExe=Msgsrv.exe
+
+[Files.XPx64]
+LmonmXPx64=Scp2005.dll
+
+[Files.XP]
+LmonmXP=Scp2005.dll
+
+[Files.2K]
+Lmonm2K=Scp2005.dll
+
+[Files.NT]
+LmonmNT=Scp2005.dll
+
+[Files.9x]
+Lmonm9x=Scp2005.dll
+
+[Files.Com]
+Lmonn=SC-Print2005 Port
+PortName=S0_
+RegRunKeyName=SC-Print2005 Msgsrv
+RegRunKeyValueArg=/NSC-Print2005 /S
+RunArgument=/NSC-Print2005

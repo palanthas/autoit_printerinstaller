@@ -1,0 +1,10 @@
+[Initial]
+Install = ON
+PortSerch = 5000
+
+[PrinterDirectory]
+Dir=64
+
+[ScannerDirectory]
+Dir=
+

@@ -1,0 +1,33 @@
+[Initial]
+Install = ON
+PortSerch = 5000
+
+[PrinterDirectory]
+Dir=ScPort
+
+[Install]
+ProgramName=SC2 TCP/IP Port
+Driver=SCN2PM.dll
+ProgramExe=SCN2PM.dll
+Programini=SCN2PM.DAT
+Dlgini=SCN2PMUI.dll
+Mesini=SCN2PMR.dll
+Help=SCN2PM.HLP
+Helpchm=SCN2PM.chm
+
+[Files.XP]
+LmonmXP=SCN2PM.dll
+
+[Files.2K]
+Lmonm2K=SCN2PM.dll
+
+[Files.NT]
+LmonmNT=SCN2PM.dll
+
+[Files.9x]
+Lmonm9x=SCN2PM.dll
+
+[Files.Com]
+Lmonn=SC2 TCP/IP Port
+PortName=S2_IP_
+

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--$Date: 2013.02.12 18.23 $ -->
+<packageLayout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PrinterDriverLayout-v2r11.xsd" version="2">
+	<packageList>
+		<package description="SHARP PCL6 64bit" version="06.00.03.10" font="false">
+			<modelList>
+				<model name="SHARP MX-1800N">
+					<driver pdl="PCL6" name="SHARP MX-1800N PCL6"/>
+				</model>
+				<model name="SHARP MX-2300G">
+					<driver pdl="PCL6" name="SHARP MX-2300G PCL6"/>
+				</model>
+				<model name="SHARP MX-2300N">
+					<driver pdl="PCL6" name="SHARP MX-2300N PCL6"/>
+				</model>
+				<model name="SHARP MX-2600G">
+					<driver pdl="PCL6" name="SHARP MX-2600G PCL6"/>
+				</model>
+				<model name="SHARP MX-2600N">
+					<driver pdl="PCL6" name="SHARP MX-2600N PCL6"/>
+				</model>
+				<model name="SHARP MX-2700G">
+					<driver pdl="PCL6" name="SHARP MX-2700G PCL6"/>
+				</model>
+				<model name="SHARP MX-2700N">
+					<driver pdl="PCL6" name="SHARP MX-2700N PCL6"/>
+				</model>
+				<model name="SHARP MX-3100G">
+					<driver pdl="PCL6" name="SHARP MX-3100G PCL6"/>
+				</model>
+				<model name="SHARP MX-3100N">
+					<driver pdl="PCL6" name="SHARP MX-3100N PCL6"/>
+				</model>
+				<model name="SHARP MX-3500N">
+					<driver pdl="PCL6" name="SHARP MX-3500N PCL6"/>
+				</model>
+				<model name="SHARP MX-3501N">
+					<driver pdl="PCL6" name="SHARP MX-3501N PCL6"/>
+				</model>
+				<model name="SHARP MX-4100N">
+					<driver pdl="PCL6" name="SHARP MX-4100N PCL6"/>
+				</model>
+				<model name="SHARP MX-4101N">
+					<driver pdl="PCL6" name="SHARP MX-4101N PCL6"/>
+				</model>
+				<model name="SHARP MX-4500N">
+					<driver pdl="PCL6" name="SHARP MX-4500N PCL6"/>
+				</model>
+				<model name="SHARP MX-4501N">
+					<driver pdl="PCL6" name="SHARP MX-4501N PCL6"/>
+				</model>
+				<model name="SHARP MX-5000N">
+					<driver pdl="PCL6" name="SHARP MX-5000N PCL6"/>
+				</model>
+				<model name="SHARP MX-5001N">
+					<driver pdl="PCL6" name="SHARP MX-5001N PCL6"/>
+				</model>
+				<model name="SHARP MX-5500N">
+					<driver pdl="PCL6" name="SHARP MX-5500N PCL6"/>
+				</model>
+				<model name="SHARP MX-6200N">
+					<driver pdl="PCL6" name="SHARP MX-6200N PCL6"/>
+				</model>
+				<model name="SHARP MX-6201N">
+					<driver pdl="PCL6" name="SHARP MX-6201N PCL6"/>
+				</model>
+				<model name="SHARP MX-7000N">
+					<driver pdl="PCL6" name="SHARP MX-7000N PCL6"/>
+				</model>
+				<model name="SHARP MX-7001N">
+					<driver pdl="PCL6" name="SHARP MX-7001N PCL6"/>
+				</model>
+				<model name="SHARP MX-C310">
+					<driver pdl="PCL6" name="SHARP MX-C310 PCL6"/>
+				</model>
+				<model name="SHARP MX-C311">
+					<driver pdl="PCL6" name="SHARP MX-C311 PCL6"/>
+				</model>
+				<model name="SHARP MX-C380">
+					<driver pdl="PCL6" name="SHARP MX-C380 PCL6"/>
+				</model>
+				<model name="SHARP MX-C381">
+					<driver pdl="PCL6" name="SHARP MX-C381 PCL6"/>
+				</model>
+				<model name="SHARP MX-C400">
+					<driver pdl="PCL6" name="SHARP MX-C400 PCL6"/>
+				</model>
+				<model name="SHARP MX-C401">
+					<driver pdl="PCL6" name="SHARP MX-C401 PCL6"/>
+				</model>
+				<model name="SHARP DX-C310">
+					<driver pdl="PCL6" name="SHARP DX-C310 PCL6"/>
+				</model>
+				<model name="SHARP DX-C311">
+					<driver pdl="PCL6" name="SHARP DX-C311 PCL6"/>
+				</model>
+				<model name="SHARP DX-C380">
+					<driver pdl="PCL6" name="SHARP DX-C380 PCL6"/>
+				</model>
+				<model name="SHARP DX-C381">
+					<driver pdl="PCL6" name="SHARP DX-C381 PCL6"/>
+				</model>
+				<model name="SHARP DX-C400">
+					<driver pdl="PCL6" name="SHARP DX-C400 PCL6"/>
+				</model>
+				<model name="SHARP DX-C401">
+					<driver pdl="PCL6" name="SHARP DX-C401 PCL6"/>
+				</model>
+				<model name="SHARP MX-2301N">
+					<driver pdl="PCL6" name="SHARP MX-2301N PCL6"/>
+				</model>
+				<model name="SHARP MX-C400P">
+					<driver pdl="PCL6" name="SHARP MX-C400P PCL6"/>
+				</model>
+				<model name="SHARP MX-C380P">
+					<driver pdl="PCL6" name="SHARP MX-C380P PCL6"/>
+				</model>
+				<model name="SHARP MX-C402SC">
+					<driver pdl="PCL6" name="SHARP MX-C402SC PCL6"/>
+				</model>
+				<model name="SHARP MX-C382SC">
+					<driver pdl="PCL6" name="SHARP MX-C382SC PCL6"/>
+				</model>
+				<model name="SHARP MX-C312">
+					<driver pdl="PCL6" name="SHARP MX-C312 PCL6"/>
+				</model>
+			</modelList>
+			<OSList>
+				<OS name="WIN2K3-X64"/>
+				<OS name="WINXP-X64"/>
+				<OS name="VISTA-64"/>
+				<OS name="WIN2K8-64"/>
+				<OS name="WIN7-64"/>
+				<OS name="WIN8-64"/>
+				<OS name="WIN2012"/>
+			</OSList>
+			<languageList>
+				<language name="ENGLISHA" description="English-us"/>
+			</languageList>
+			<fileList configFile="./Config.ini" executeDir="." executeCommand="setup.exe" executeParams="Config.ini">
+				<file path="." isDirectory="true"/>
+				<file path="./ENGLISHA" isDirectory="true"/>
+				<file path="./ENGLISHA/PCL6/64bit" isDirectory="true"/>
+				<file path="./SCPORT" isDirectory="true" recursive="true"/>
+			</fileList>
+			<paramList>
+				<param name="PDL" value="PCL6"/>
+			</paramList>
+			<portList>
+				<port type="Standard" description="Standard">
+					<paramList>
+						<param name="IpAddress" value="%a" type="ipAddress" editable="false" hidden="false"/>
+						<param name="ProtocolType" value="LPR" type="text" hidden="true"/>
+						<param name="LprQueueName" value="lp" type="text" editable="false" hidden="false"/>
+						<param name="LprByteCount" value="" type="int" hidden="true" editable="false"/>
+					</paramList>
+				</port>
+				<port type="WindowsPrinterSharing" description="WindowsPrinterSharing">
+					<paramList>
+						<param name="IpAddress" value="%a" type="ipAddress" editable="false" hidden="true"/>
+						<param name="QueueName" value="" type="SMBUNC" editable="true" hidden="false"/>
+					</paramList>
+				</port>
+			</portList>
+		</package>
+		<package description="SHARP PS 64bit" version="06.00.02.11" font="false">
+			<modelList>
+				<model name="SHARP MX-1800N">
+					<driver pdl="PS" name="SHARP MX-1800N PS"/>
+				</model>
+				<model name="SHARP MX-2300G">
+					<driver pdl="PS" name="SHARP MX-2300G PS"/>
+				</model>
+				<model name="SHARP MX-2300N">
+					<driver pdl="PS" name="SHARP MX-2300N PS"/>
+				</model>
+				<model name="SHARP MX-2600G">
+					<driver pdl="PS" name="SHARP MX-2600G PS"/>
+				</model>
+				<model name="SHARP MX-2600N">
+					<driver pdl="PS" name="SHARP MX-2600N PS"/>
+				</model>
+				<model name="SHARP MX-2700G">
+					<driver pdl="PS" name="SHARP MX-2700G PS"/>
+				</model>
+				<model name="SHARP MX-2700N">
+					<driver pdl="PS" name="SHARP MX-2700N PS"/>
+				</model>
+				<model name="SHARP MX-3100G">
+					<driver pdl="PS" name="SHARP MX-3100G PS"/>
+				</model>
+				<model name="SHARP MX-3100N">
+					<driver pdl="PS" name="SHARP MX-3100N PS"/>
+				</model>
+				<model name="SHARP MX-3500N">
+					<driver pdl="PS" name="SHARP MX-3500N PS"/>
+				</model>
+				<model name="SHARP MX-3501N">
+					<driver pdl="PS" name="SHARP MX-3501N PS"/>
+				</model>
+				<model name="SHARP MX-4100N">
+					<driver pdl="PS" name="SHARP MX-4100N PS"/>
+				</model>
+				<model name="SHARP MX-4101N">
+					<driver pdl="PS" name="SHARP MX-4101N PS"/>
+				</model>
+				<model name="SHARP MX-4500N">
+					<driver pdl="PS" name="SHARP MX-4500N PS"/>
+				</model>
+				<model name="SHARP MX-4501N">
+					<driver pdl="PS" name="SHARP MX-4501N PS"/>
+				</model>
+				<model name="SHARP MX-5000N">
+					<driver pdl="PS" name="SHARP MX-5000N PS"/>
+				</model>
+				<model name="SHARP MX-5001N">
+					<driver pdl="PS" name="SHARP MX-5001N PS"/>
+				</model>
+				<model name="SHARP MX-5500N">
+					<driver pdl="PS" name="SHARP MX-5500N PS"/>
+				</model>
+				<model name="SHARP MX-6200N">
+					<driver pdl="PS" name="SHARP MX-6200N PS"/>
+				</model>
+				<model name="SHARP MX-6201N">
+					<driver pdl="PS" name="SHARP MX-6201N PS"/>
+				</model>
+				<model name="SHARP MX-7000N">
+					<driver pdl="PS" name="SHARP MX-7000N PS"/>
+				</model>
+				<model name="SHARP MX-7001N">
+					<driver pdl="PS" name="SHARP MX-7001N PS"/>
+				</model>
+				<model name="SHARP MX-C310">
+					<driver pdl="PS" name="SHARP MX-C310 PS"/>
+				</model>
+				<model name="SHARP MX-C311">
+					<driver pdl="PS" name="SHARP MX-C311 PS"/>
+				</model>
+				<model name="SHARP MX-C380">
+					<driver pdl="PS" name="SHARP MX-C380 PS"/>
+				</model>
+				<model name="SHARP MX-C381">
+					<driver pdl="PS" name="SHARP MX-C381 PS"/>
+				</model>
+				<model name="SHARP MX-C400">
+					<driver pdl="PS" name="SHARP MX-C400 PS"/>
+				</model>
+				<model name="SHARP MX-C401">
+					<driver pdl="PS" name="SHARP MX-C401 PS"/>
+				</model>
+				<model name="SHARP DX-C310">
+					<driver pdl="PS" name="SHARP DX-C310 PS"/>
+				</model>
+				<model name="SHARP DX-C311">
+					<driver pdl="PS" name="SHARP DX-C311 PS"/>
+				</model>
+				<model name="SHARP DX-C380">
+					<driver pdl="PS" name="SHARP DX-C380 PS"/>
+				</model>
+				<model name="SHARP DX-C381">
+					<driver pdl="PS" name="SHARP DX-C381 PS"/>
+				</model>
+				<model name="SHARP DX-C400">
+					<driver pdl="PS" name="SHARP DX-C400 PS"/>
+				</model>
+				<model name="SHARP DX-C401">
+					<driver pdl="PS" name="SHARP DX-C401 PS"/>
+				</model>
+				<model name="SHARP MX-2301N">
+					<driver pdl="PS" name="SHARP MX-2301N PS"/>
+				</model>
+				<model name="SHARP MX-C400P">
+					<driver pdl="PS" name="SHARP MX-C400P PS"/>
+				</model>
+				<model name="SHARP MX-C380P">
+					<driver pdl="PS" name="SHARP MX-C380P PS"/>
+				</model>
+				<model name="SHARP MX-C402SC">
+					<driver pdl="PS" name="SHARP MX-C402SC PS"/>
+				</model>
+				<model name="SHARP MX-C382SC">
+					<driver pdl="PS" name="SHARP MX-C382SC PS"/>
+				</model>
+				<model name="SHARP MX-C312">
+					<driver pdl="PS" name="SHARP MX-C312 PS"/>
+				</model>
+			</modelList>
+			<OSList>
+				<OS name="WIN2K3-X64"/>
+				<OS name="WINXP-X64"/>
+				<OS name="VISTA-64"/>
+				<OS name="WIN2K8-64"/>
+				<OS name="WIN7-64"/>
+				<OS name="WIN8-64"/>
+				<OS name="WIN2012"/>
+			</OSList>
+			<languageList>
+				<language name="ENGLISHA" description="English-us"/>
+			</languageList>
+			<fileList configFile="./Config.ini" executeDir="." executeCommand="setup.exe" executeParams="Config.ini">
+				<file path="." isDirectory="true"/>
+				<file path="./ENGLISHA" isDirectory="true"/>
+				<file path="./ENGLISHA/PS/64bit" isDirectory="true"/>
+				<file path="./SCPORT" isDirectory="true" recursive="true"/>
+			</fileList>
+			<paramList>
+				<param name="PDL" value="PS"/>
+			</paramList>
+			<portList>
+				<port type="Standard" description="Standard">
+					<paramList>
+						<param name="IpAddress" value="%a" type="ipAddress" editable="false" hidden="false"/>
+						<param name="ProtocolType" value="LPR" type="text" hidden="true"/>
+						<param name="LprQueueName" value="lp" type="text" editable="false" hidden="false"/>
+						<param name="LprByteCount" value="" type="int" hidden="true" editable="false"/>
+					</paramList>
+				</port>
+				<port type="WindowsPrinterSharing" description="WindowsPrinterSharing">
+					<paramList>
+						<param name="IpAddress" value="%a" type="ipAddress" editable="false" hidden="true"/>
+						<param name="QueueName" value="" type="SMBUNC" editable="true" hidden="false"/>
+					</paramList>
+				</port>
+			</portList>
+		</package>
+	</packageList>
+</packageLayout>

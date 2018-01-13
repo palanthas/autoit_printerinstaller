@@ -1,0 +1,9 @@
+[Initial]
+Install = ON
+
+[PrinterDirectory]
+Dir=98me
+
+[ScannerDirectory]
+Dir=
+

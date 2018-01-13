@@ -1,0 +1,234 @@
+[Initial]
+Product=SHARP
+Version=1.0.0
+PortSerchTimes = 3
+NameHeader=
+
+[Model]
+Project=SHARP MX Series PPD Printer Driver
+BackGround=SHARP MX Series PPD Printer Driver
+PRNInfFile9x=
+PRNInfFileMe=
+PRNInfFileNT=
+PRNInfFile2K=SN0JJENU.INF
+PRNInfFileXP=SN0JJENU.INF
+PRNInfFileXPx64=SN0JJENU.INF
+PRNCatFile2K=SN0JJENU.CAT
+PRNCatFileXP=SN0JJENU.CAT
+PRNCatFileXPx64=SN0JJENU.CAT
+IniFile=
+USBInfFile9x=
+USBInfFileMe=
+CatUSB=
+DUSBINF=
+USBComINF=
+SCNInfFile9x=
+SCNInfFile2K=
+SCNInfFileXP=
+SCNCatFile2K=
+SCNCatFileXP=
+SCNPreData=
+SCNHead=
+Font=TIMES NEW ROMAN
+
+[ModelName]
+Model1=MX-2300N PPD
+Model2=MX-2700N PPD
+Model3=MX-2300G PPD
+Model4=MX-2700G PPD
+Model5=MX-3500N PPD
+Model6=MX-3501N PPD
+Model7=MX-4500N PPD
+Model8=MX-4501N PPD
+Model9=MX-1800N PPD
+Model10=MX-5500N PPD
+Model11=MX-6200N PPD
+Model12=MX-7000N PPD
+Model13=MX-6201N PPD
+Model14=MX-7001N PPD
+Model15=MX-2600G PPD
+Model16=MX-3100G PPD
+Model17=MX-2600N PPD
+Model18=MX-3100N PPD
+Model19=MX-4100N PPD
+Model20=MX-4101N PPD
+Model21=MX-5000N PPD
+Model22=MX-5001N PPD
+Model23=MX-C311 PPD
+Model24=MX-C310 PPD
+Model25=DX-C311 PPD
+Model26=DX-C310 PPD
+Model27=MX-C381 PPD
+Model28=MX-C380 PPD
+Model29=DX-C381 PPD
+Model30=DX-C380 PPD
+Model31=MX-C401 PPD
+Model32=MX-C400 PPD
+Model33=DX-C401 PPD
+Model34=DX-C400 PPD
+Model35=MX-2301N PPD
+Model36=MX-C400P PPD
+Model37=MX-C380P PPD
+Model38=MX-C402SC PPD
+Model39=MX-C382SC PPD
+Model40=MX-C312 PPD
+
+nModelNum=40
+
+[Files.XPx64]
+ProcnXPx64=NULL
+ProcmXPx64=NULL
+LmonmXPx64=NULL
+DrvfXPx64=PSCRIPT5.DLL
+ConfXPx64=PS5UI.DLL
+DatfXPx64=SN0J.PPD
+WIAfXPx64=
+
+[Files.XP]
+ProcnXP=NULL
+ProcmXP=NULL
+LmonmXP=NULL
+DrvfXP=PSCRIPT5.DLL
+ConfXP=PS5UI.DLL
+DatfXP=SN0J.PPD
+WIAfXP=
+
+[Files.2K]
+Procn2K=NULL
+Procm2K=NULL
+Lmonm2K=NULL
+Drvf2K=PSCRIPT5.DLL
+Conf2K=PS5UI.DLL
+Datf2K=SN0J.PPD
+Lpt2K=
+Lpt2KName=
+
+[Files.NT]
+ProcnNT=
+ProcmNT=
+LmonmNT=
+DrvfNT=
+ConfNT=
+DatfNT=
+LptNT=
+LptNTName=
+
+[Files.9x]
+Procn9x=
+Procm9x=
+Lmonm9x=
+Drvf9x=
+Conf9x=
+Datf9x=
+Drcf9x=
+RegistICM1=
+RegistICM2=
+RegistICM3=
+USBmonm=
+USBsysm=
+USBKey=
+
+[Files.Me]
+USBKey=USBPRINT
+
+[Files.Com]
+Helpf=PSCRIPT.HLP
+Lmonn=
+SpecialInfo=
+
+[DevID]
+
+[USBID]
+
+[USBPRINT]
+
+[USBPRINT2]
+
+
+[Sections]
+DriverFile.9x=Driver_File
+ColorFile.9x=NULL
+MonitorFile.9x=NULL
+ProcFile.9x=NULL
+DriverFile.NT=Driver_File
+HelpFile.NT=
+ColorFile.NT=NULL
+MonitorFile.NT=Info_File
+ProcFile.NT=NULL
+DriverFile.2K=Driver_File
+HelpFile.2K=
+ColorFile.2K=NULL
+MonitorFile.2K=NULL
+ProcFile.2K=NULL
+DriverFile.XP=Driver_File
+HelpFile.XP=
+ColorFile.XP=NULL
+MonitorFile.XP=NULL
+ProcFile.XP=NULL
+DriverFile.XPx64=Driver_File
+HelpFile.XPx64=
+ColorFile.XPx64=NULL
+MonitorFile.XPx64=NULL
+ProcFile.XPx64=NULL
+TwainFile.9x=
+IcmFile.9x=
+USBFile.9x=
+TwainFile.2K=
+IcmFile.2K=
+USBFile.2K=
+TwainFile.XP=
+IcmFile.XP=
+USBFile.XP=
+Color=
+Twain=
+System=
+User=
+Windows=
+For9xme=
+
+[TWNDir]
+
+[UserDir]
+
+[WinDir]
+
+[9xme]
+
+[DestinationDirs]
+ColorDir=23
+TWNDir=10,TWAIN_32\SE02TWN
+SysDir=11
+UserDir=24
+WinDir=10
+TempDir=SCDRV
+
+[Install]
+LIST_LPT1=LPT1:
+LIST_LPT2=LPT2:
+LIST_LPT3=LPT3:
+DATATYPE=RAW
+DLL_ISUSR32=_isusr32.dll
+DLL_ISUSRRS=_isusrrs.dll
+DLL_ISUSR2K=_isusr2k.dll
+DLL_DISCFLTR=DiscFltr.dll
+DLL_ISUSRICM=_isusric.dll
+DLL_INS9X=NULL
+DLL_INS2KXP=NULL
+UNIINST_REGKEY_ENDING=Ending
+UNIINST_REGKEY_REBOOT=Reboot
+UNIINST_REGKEY_RUNNING=Running
+UNIINST_REGKEY_CONNECT=ConnectCableNonMFP
+UNIINST_REGSUBKEY_UNIINST=Software\Sharp\Uniinst
+TEMPDRV=SCDRV
+LOCAL_CONNECTION=ON
+PARALLEL_SUPPORT=OFF
+USB_SUPPORT=ON
+IPP_SUPPORT=ON
+DLG_FONT=ON
+FONT_INSTALL=OFF
+AUTOCONFIG=OFF
+README_DIR=
+AUTOCONFIGMODULE=
+FONT_NOTE=OFF
+DRIVER_NOTE=ON
+
